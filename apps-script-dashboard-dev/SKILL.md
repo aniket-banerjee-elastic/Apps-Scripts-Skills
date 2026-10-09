@@ -78,4 +78,4 @@ Sections 1–22 + Document Metadata **at the end**. Worked example linked above.
 
 ## Publish path
 
-`skills/RevOps/Analytics/apps-script-dashboard-dev/` in `elastic/it-agent-skills`. First PR must add CODEOWNERS `/skills/RevOps/Analytics/*` (`@elastic/it-ai-services` + `@elastic/sales-insights`) and request those teams for review (see `references/publish.md`).
+`skills/Field/RevOps/Analytics/apps-script-dashboard-dev/` in `elastic/it-agent-skills`. CODEOWNERS `/skills/Field/RevOps/Analytics/*` (`@elastic/it-ai-services` + `@elastic/sales-insights` + `@elastic/field-team`); request those teams for review (see `references/publish.md`).

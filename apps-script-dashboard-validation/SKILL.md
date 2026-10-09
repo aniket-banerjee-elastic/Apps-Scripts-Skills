@@ -56,4 +56,4 @@ Point at the repo (or clasp project). Prefer `DECISIONS.md` if present. Ask for 
 
 ## Publish path
 
-`skills/RevOps/Analytics/apps-script-dashboard-validation/` in `elastic/it-agent-skills` (fork/PR; see development skill `references/publish.md`).
+`skills/Field/RevOps/Analytics/apps-script-dashboard-validation/` in `elastic/it-agent-skills` (fork/PR; see development skill `references/publish.md`).
