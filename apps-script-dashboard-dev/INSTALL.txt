@@ -1,0 +1,31 @@
+Install: apps-script-dashboard-dev
+================
+
+This zip is an Agent Skills package (SKILL.md + references/assets/scripts).
+
+Cursor
+------
+1. Unzip this archive.
+2. Copy the folder "apps-script-dashboard-dev" into one of:
+   - Personal (all projects):  ~/.cursor/skills/
+   - Project-only:            <repo>/.cursor/skills/
+3. Restart Cursor or open a new agent chat. The skill loads from SKILL.md.
+
+Claude Desktop / Claude Code
+----------------------------
+1. Unzip this archive.
+2. Place "apps-script-dashboard-dev" where your client expects skills (often a skills directory
+   configured in the product settings, or your team's MaaS / it-agent-skills checkout).
+3. Confirm SKILL.md is at: <skills-root>/apps-script-dashboard-dev/SKILL.md
+
+Other tools (agentskills.io layout)
+-----------------------------------
+Keep the directory name "apps-script-dashboard-dev" and the file SKILL.md at the package root.
+Do not flatten references/ or assets/ into the parent folder.
+
+Companion
+---------
+- Development skill: apps-script-dashboard-dev
+- Validation skill:  apps-script-dashboard-validation
+Canonical tech doc: https://docs.google.com/document/d/1dNZHVvf-oFRV-zv-jVLNdzxFXBNnsoZBVQ_Uf6H2q_0/edit
+Hub PR (optional): https://github.com/elastic/it-agent-skills/pull/40
